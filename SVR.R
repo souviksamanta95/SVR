@@ -1,4 +1,3 @@
-setwd("D:/Analytics/Insight/Blog/SVR/SVR")
 
 data <- read.csv("Boston Housing Prices.csv")
 head(data)
